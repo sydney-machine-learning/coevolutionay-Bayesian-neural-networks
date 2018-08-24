@@ -1,0 +1,3 @@
+H: 5	Mean Eval: 258203970 Eval Error: 54066.1	
+RMSE Train Average: 0.0127869	RMSE Error Sum: 0.00312048	RMSE Test Average: 0.0124511	RMSE Test Error Sum: 0.00357565 Best RMSE: 0.00987113   
+NMSE Train Average: 0.000582693  NMSE Train Error Sum: 0.000275845 NMSE Test Average: 0.000549864 NMSE Test Error Sum: 0.000302814 Best NMSE: 0.000331373

@@ -1,0 +1,9 @@
+Dataset: PythonDatasets\Mackey H: 5	Mean Eval: 4803070 Eval Error: 0	
+RMSE Train Average: 0.00168542	RMSE Error Sum: 0	[RMSE Test Average: 0.00176864 - Benchmark 0.04068]	RMSE Test Error Sum: 0 Best RMSE: 0.00176864   
+NMSE Train Average: 1.66769e-005  NMSE Train Error Sum: 0 NMSE Test Average: 1.84611e-005 NMSE Test Error Sum: 0 Best NMSE: 1.84611e-005
+Dataset: PythonDatasets\ACFinance H: 5	Mean Eval: 4938682 Eval Error: 0	
+RMSE Train Average: 0.0228936	RMSE Error Sum: 0	[RMSE Test Average: 0.0130979 - Benchmark 0.04068]	RMSE Test Error Sum: 0 Best RMSE: 0.0130979   
+NMSE Train Average: 0.00122675  NMSE Train Error Sum: 0 NMSE Test Average: 0.0010095 NMSE Test Error Sum: 0 Best NMSE: 0.0010095
+Dataset: PythonDatasets\Lazer H: 5	Mean Eval: 5087042 Eval Error: 0	
+RMSE Train Average: 0.0179212	RMSE Error Sum: 0	[RMSE Test Average: 0.020862 - Benchmark 0.04068]	RMSE Test Error Sum: 0 Best RMSE: 0.020862   
+NMSE Train Average: 0.00312901  NMSE Train Error Sum: 0 NMSE Test Average: 0.00604985 NMSE Test Error Sum: 0 Best NMSE: 0.00604985

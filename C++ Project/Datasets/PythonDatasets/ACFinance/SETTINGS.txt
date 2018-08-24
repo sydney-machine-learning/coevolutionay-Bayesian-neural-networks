@@ -1,0 +1,11 @@
+Dataset:			ACFinance
+TrainSize: 			238 
+TestSize: 			158 
+ValidationSize: 	158
+Input: 				4
+Output:				1
+MinimumError: 		0.04068
+Activation: 		Sigmoid
+HiddenNeuronsMax: 	5
+HiddenIncrementBy: 	2
+HiddenNeuronsStart: 5

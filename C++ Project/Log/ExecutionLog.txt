@@ -1,0 +1,9 @@
+No. of Datasets: 3
+Datasets: PythonDatasets\Mackey PythonDatasets\ACFinance PythonDatasets\Lazer 
+
+Running PythonDatasets\Mackey Experiment
+Completed PythonDatasets\Mackey Experiment
+Running PythonDatasets\ACFinance Experiment
+Completed PythonDatasets\ACFinance Experiment
+Running PythonDatasets\Lazer Experiment
+Completed PythonDatasets\Lazer Experiment
